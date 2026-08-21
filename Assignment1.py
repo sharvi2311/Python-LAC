@@ -13,11 +13,11 @@ elif(A==B or B==C or C==A):
     elif(C==A and A>B):
         print("A and C are equal and greater than B")
     elif(A==B and A<C):
-        print("A and B are equal and greater than C")
+        print("A and B are equal and lesser than C")
     elif(A==C and A<B):
-        print("A and C are equal and greater than C")
+        print("A and C are equal and lesser than C")
     elif(B==C and B<A):
-        print("B and C are equal and greater than C")
+        print("B and C are equal and lesser than C")
 
 elif (A>B and A>C):
     print("A is largest among three")
