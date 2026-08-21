@@ -1,3 +1,4 @@
+# Take 3 sides of triangle as user input
 A = int(input("Enter number A = "))
 B = int(input("Enter number B = "))
 C = int(input("Enter number C = "))
