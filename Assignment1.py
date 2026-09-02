@@ -18,9 +18,9 @@ elif(A==B or B==C or C==A):
     elif(A==B and A<C):
         print("A and B are equal and lesser than C")
     elif(A==C and A<B):
-        print("A and C are equal and lesser than C")
+        print("A and C are equal and lesser than B")
     elif(B==C and B<A):
-        print("B and C are equal and lesser than C")
+        print("B and C are equal and lesser than A")
 
 # For each different number
 elif (A>B and A>C):
